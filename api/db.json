@@ -1,3 +1,14 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "title": "Getting PWNED",
+      "description": "Me just playing Dota",
+      "id": 1
+    },
+    {
+      "title": "Getting PWNED AGAIN",
+      "description": "Feeding in Dota",
+      "id": 2
+    }
+  ]
 }
